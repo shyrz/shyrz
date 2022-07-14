@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/shyrz"><img src="https://api.daily.dev/devcards/7b9ef80022e7440f85688d98e8a588db.png?r=vmr" width="400" alt="Shyrz's Dev Card"/></a>
 
 [![Shyrz's github stats](https://github-readme-stats.vercel.app/api?username=shyrz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
